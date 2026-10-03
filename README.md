@@ -17,3 +17,9 @@ içe_aktar rastgele
 
 yazdır("Karekök Hesabı:", matematik.karekök(16))
 yazdır("Rastgele Sayı:", rastgele.rastgele_sayı(1, 100))
+
+için i içinde aralık(5):
+    eğer i % 2 == 0 ise:
+        yazdır(f"{i} çift sayıdır")
+    değilse:
+        yazdır(f"{i} tek sayıdır")
