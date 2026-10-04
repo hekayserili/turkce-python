@@ -1,0 +1,18 @@
+# Python önbellekleri
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller derleme çıktıları
+build/
+dist/
+*.spec
+
+# Test esnasında oluşan geçici dosyalar
+*.txt
+
+# Ortam ve IDE dosyaları
+.vscode/
+.idea/
+venv/
+env/
