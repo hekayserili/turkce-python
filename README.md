@@ -1,6 +1,6 @@
 # 🇹🇷 TPY - Türkçe Python Programlama Çeviricisi & Canlı Terminal
 
-**TPY (v0.3.0)**, Python programlama dilini Türkçe sözdizimi ile yazmanızı ve çalıştırmanızı sağlayan bağımsız bir transpiler ve canlı terminal (REPL) ortamıdır.
+**TPY (v0.4.0)**, Python programlama dilini Türkçe sözdizimi ile yazmanızı ve çalıştırmanızı sağlayan bağımsız bir transpiler ve canlı terminal (REPL) ortamıdır.
 
 ---
 
